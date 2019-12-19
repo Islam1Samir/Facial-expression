@@ -6,6 +6,6 @@ in gender classification we use hog as feature extractor and svm for classifying
 [this Dataset](https://zenodo.org/record/1188976?fbclid=IwAR0hjpj4bYr6lUHHn2Vu3U98NHBMHYGqWC4WkadpTBUz8H8v1dCXIbSHpWM#.XfvIeGQzaUn) is videos for facial expression
 
 ## output
-screenshots below from output videos
+screenshots below from output videos  
  <img src="/happy.png" width="400" height="310">  <img src="/sad.png" width="400" height="310">
  <img src="/calm.png" width="400" height="310">  <img src="/surprised.png" width="400" height="310">
